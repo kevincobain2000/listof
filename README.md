@@ -6,7 +6,7 @@ TODO: Write a gem description & gem installation from repo
 
 Add this line to your application's Gemfile:
 
-    gem 'listof'
+    gem 'listof', :git => 'https://github.com/kevincobain2000/listof', :branch => 'master'
 
 And then execute:
 
