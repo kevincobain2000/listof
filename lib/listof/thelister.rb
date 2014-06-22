@@ -23,7 +23,7 @@ module Thelister
     def in_folder
       "#{DATA_PATH}#{@query[0]}"
     end
-    def list_by_alphabet(query)
+    def by_alphabet(query)
       @query = query
       contents_hash = {}
       Dir["#{in_folder}/*.txt"].each_with_index do |path, index|
@@ -31,7 +31,7 @@ module Thelister
       end
       contents_hash
     end
-    def list_all()
+    def all()
       contents_hash = {}
       Dir.glob("#{DATA_PATH}/**/*.txt").each_with_index do |path, index|
         contents_hash[index] = File.basename(path, ".txt")
