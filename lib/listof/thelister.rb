@@ -1,5 +1,6 @@
 require 'find'
-
+require 'json'
+require 'yaml'
 module Thelister
   module ClassMethods
     DATA_PATH = File.dirname(File.dirname(File.dirname(__FILE__))) + '/data/'
@@ -22,11 +23,20 @@ module Thelister
     def in_folder
       "#{DATA_PATH}#{@query[0]}"
     end
-    def find_similar(query)
+    def list_by_alphabet(query)
       @query = query
-      Find.find(file) do |path|
-        list << path if path =~ /.*\.txt$/
+      contents_hash = {}
+      Dir["#{in_folder}/*.txt"].each_with_index do |path, index|
+        contents_hash[index] = File.basename(path, ".txt")
       end
+      contents_hash
+    end
+    def list_all()
+      contents_hash = {}
+      Dir.glob("#{DATA_PATH}/**/*.txt").each_with_index do |path, index|
+        contents_hash[index] = File.basename(path, ".txt")
+      end
+      contents_hash
     end
   end
 
