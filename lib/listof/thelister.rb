@@ -10,11 +10,8 @@ module Thelister
       contents_hash = {}
       if File.file?(file_for_query)
         f = File.open(file_for_query) 
-        f.each_line.with_index do |line, lineno|
-          line = line.strip
-          if !line.start_with?("#")
-            contents_hash[lineno] = line
-          end
+        f.each_line.with_index do |line, lineno = 1|
+          contents_hash[lineno] = line.strip
         end
       end
       contents_hash
@@ -29,7 +26,7 @@ module Thelister
     def by_alphabet(query)
       @query = query
       contents_hash = {}
-      Dir["#{in_folder}/*.txt"].each_with_index do |path, index|
+      Dir["#{in_folder}/*.txt"].each_with_index do |path, index = 1|
         contents_hash[index] = File.basename(path, DOT_EXTENSION)
       end
       contents_hash
