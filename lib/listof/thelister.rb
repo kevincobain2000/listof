@@ -11,7 +11,10 @@ module Thelister
       if File.file?(file_for_query)
         f = File.open(file_for_query) 
         f.each_line.with_index do |line, lineno|
-          contents_hash[lineno] = line.strip
+          line = line.strip
+          if !line.start_with?("#")
+            contents_hash[lineno] = line
+          end
         end
       end
       contents_hash
