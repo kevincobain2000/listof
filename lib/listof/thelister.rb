@@ -4,7 +4,7 @@ require 'yaml'
 module Thelister
   module ClassMethods
     DATA_PATH = File.dirname(File.dirname(File.dirname(__FILE__))) + '/data/'
-    EXTENSION = ".txt"
+    DOT_EXTENSION = ".txt"
     def find(query)
       @query = query
       contents_hash = {}
@@ -18,7 +18,7 @@ module Thelister
     end
 
     def file_for_query
-      "#{in_folder}/#{@query}#{EXTENSION}"
+      "#{in_folder}/#{@query}#{DOT_EXTENSION}"
     end
     def in_folder
       "#{DATA_PATH}#{@query[0]}"
@@ -27,14 +27,14 @@ module Thelister
       @query = query
       contents_hash = {}
       Dir["#{in_folder}/*.txt"].each_with_index do |path, index|
-        contents_hash[index] = File.basename(path, ".txt")
+        contents_hash[index] = File.basename(path, DOT_EXTENSION)
       end
       contents_hash
     end
     def all()
       contents_hash = {}
-      Dir.glob("#{DATA_PATH}/**/*.txt").each_with_index do |path, index|
-        contents_hash[index] = File.basename(path, ".txt")
+      Dir.glob("#{DATA_PATH}/**/*#{DOT_EXTENSION}").each_with_index do |path, index|
+        contents_hash[index] = File.basename(path, DOT_EXTENSION)
       end
       contents_hash
     end
