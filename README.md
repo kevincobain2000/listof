@@ -1,3 +1,7 @@
+# Demo and API
+
+http://listof.herokuapp.com/api/dog_names_male
+
 # Listof
 
 TODO: Write a gem description & gem installation from repo
