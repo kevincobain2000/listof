@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kevincobain2000@gmail.com"]
   spec.description   = %q{List me up}
   spec.summary       = %q{List of anything countries, cities, food, allergies, shops}
-  spec.homepage      = ""
+  spec.homepage      = "http://listof.herokuapp.com/api/dog_names_male"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
