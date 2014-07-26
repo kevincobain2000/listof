@@ -1,3 +1,4 @@
+#image http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_(orthographic_projection).svg/541px-Asia_(orthographic_projection).svg.png
 China
 India
 Indonesia

@@ -10,12 +10,15 @@ module Thelister
       contents_hash = {}
       if File.file?(file_for_query)
         f = File.open(file_for_query) 
-        f.each_line.with_index do |line, lineno = 1|
+        _lineno = 1
+        f.each_line.with_index do |line|
           line = line.strip
           if !line.start_with?("#") and line.length >= 1
-            contents_hash[lineno] = line
-          else
-            contents_hash['source'] = line.sub("#","")
+            contents_hash[_lineno] = line
+            _lineno += 1
+          elsif line.start_with?("#")
+            l = line.sub("#", "").split()
+            contents_hash[l[0]] = l[1]
           end
         end
       end

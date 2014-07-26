@@ -1,3 +1,4 @@
+#image http://media.dev.umpirsky.com/2012/03/country-flags.jpg
 Afghanistan
 Albania
 Algeria
