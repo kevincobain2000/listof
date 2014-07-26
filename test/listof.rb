@@ -9,4 +9,6 @@ require 'listof'
 # puts Listof.by_alphabet("c")
 # puts Listof.all().to_yaml
 puts Listof.find("top_movies").to_yaml
-puts Listof.find("top_movies").to_json
+top_movies = Listof.find("top_movies")
+puts top_movies['source']
+puts top_movies['image']

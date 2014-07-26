@@ -1,3 +1,4 @@
+#image http://www.kenyaforum.net/wp-content/uploads/2014/03/fruits-image.jpg
 Apple
 Apricot
 Avocado

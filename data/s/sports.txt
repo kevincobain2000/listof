@@ -1,3 +1,4 @@
+#image http://www.ci.dearborn-heights.mi.us/images/PR/play-sports-hi.png
 Aquatics
 Archery
 Automobile Racing

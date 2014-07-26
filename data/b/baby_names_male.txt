@@ -1,3 +1,4 @@
+#image http://blog.brainfacts.org/wp-content/uploads/happy-baby.jpg
 james
 john
 robert
