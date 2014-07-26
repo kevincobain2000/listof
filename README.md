@@ -31,7 +31,6 @@ puts Listof.find("countries")
 puts Listof.find("countries").to_json
 puts Listof.find("occupations").to_yaml
 puts Listof.find("top_movies").to_yaml
-puts Listof.by_alphabet("c")
 puts Listof.all().to_yaml
 ```
 
@@ -70,7 +69,7 @@ puts Listof.all().to_yaml
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Add Your file with the list in **data/ALPHABET/sushi_fishes.txt**
+3. Add Your file with the list in data/**sushi_fishes.txt**
 4. Commit your changes (`git commit -am 'Add your list'`)
 5. Push to the branch (`git push origin my-new-feature`)
 6. Create new Pull Request to **develop**

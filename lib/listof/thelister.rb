@@ -26,22 +26,12 @@ module Thelister
     end
 
     def file_for_query
-      "#{in_folder}/#{@query}#{DOT_EXTENSION}"
+      "#{DATA_PATH}/#{@query}#{DOT_EXTENSION}"
     end
-    def in_folder
-      "#{DATA_PATH}#{@query[0]}"
-    end
-    def by_alphabet(query)
-      @query = query
-      contents_hash = {}
-      Dir["#{in_folder}/*.txt"].each_with_index do |path, index = 1|
-        contents_hash[index] = File.basename(path, DOT_EXTENSION)
-      end
-      contents_hash
-    end
+
     def all()
       contents_hash = {}
-      Dir.glob("#{DATA_PATH}/**/*#{DOT_EXTENSION}").each_with_index do |path, index|
+      Dir.glob("#{DATA_PATH}/*#{DOT_EXTENSION}").each_with_index do |path, index|
         contents_hash[index] = File.basename(path, DOT_EXTENSION)
       end
       contents_hash
