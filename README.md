@@ -1,6 +1,8 @@
-# Demo and API
+![listof logo](http://listof.herokuapp.com/images/list.png "listof logo")
 
-http://listof.herokuapp.com/api/dog_names_male
+# Demo
+
+http://listof.herokuapp.com
 
 # Listof
 
