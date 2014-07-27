@@ -6,7 +6,32 @@ http://listof.herokuapp.com
 
 # Listof
 
-TODO: Write a gem description & gem installation from repo
+### Why ?
+
+As a developer I found myself wasting a lot of time to get a ``list of`` the US states
+
+- Google: list of the US states
+- Jump to wikipedia or some other webpage
+- Copy paste(usually is a table) to my editor (sublime)
+- Remove unwanted info
+- Finally the text format
+- Save it in a file and IO read
+- Convert them to JSON, xml etc.. on the go
+
+### Solution
+
+```
+irb> Listof.find('us_states')
+```
+
+### Current Situation
+
+Currently it is packed in a gem ``listof``. 
+Future plan to pack with pip, npm or other package managers
+
+- Interface: http://listof.herokuapp.com/
+- Repo: https://github.com/kevincobain2000/listof
+
 
 ## Installation
 
@@ -72,4 +97,4 @@ puts Listof.all().to_yaml
 3. Add Your file with the list in data/**sushi_fishes.txt**
 4. Commit your changes (`git commit -am 'Add your list'`)
 5. Push to the branch (`git push origin my-new-feature`)
-6. Create new Pull Request to **develop**
+6. Create new Pull Request to **master**
