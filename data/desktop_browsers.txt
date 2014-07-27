@@ -1,0 +1,12 @@
+#source http://apps.mercenie.com/internet-browser/list-top-10-internet-browsers-windows-7-8-xp/#ixzz38f5Yj8Y2 
+#image http://www.browsers.org.uk/files/2012/03/browsers-icons.png
+Google Chrome
+Mozilla Firefox
+Internet Explorer
+Opera
+Safari
+Maxthon
+Rockmelt
+Sea Monkey
+Deepnet Explorer
+Avant Browser
