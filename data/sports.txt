@@ -1,4 +1,4 @@
-#image http://www.ci.dearborn-heights.mi.us/images/PR/play-sports-hi.png
+#image http://iosicongallery.com/wp-content/uploads/2011/12/Performa_Sports.jpg
 Aquatics
 Archery
 Automobile Racing
