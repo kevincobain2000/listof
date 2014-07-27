@@ -1,4 +1,4 @@
-#image http://sd.keepcalm-o-matic.co.uk/i/keep-calm-im-a-youtuber-.png
+#image http://www.kryptonchronicles.com/YouTube.png
 PewDiePie
 DisneyCollectorBR
 TheFineBros
