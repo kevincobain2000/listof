@@ -1,0 +1,874 @@
+#source https://github.com/arvida/emoji-cheat-sheet.com
+#image http://boston.pyladies.com/assets/images/github.png
+:+1:	Optimizes Images using ImageOptim	2 years ago
+:-1:	Optimize all images in public/graphics	3 years ago
+:100:	Optimizes Images using ImageOptim	2 years ago
+:1234:	optimized images with ImageOptim	2 years ago
+:8ball:	Optimize all images in public/graphics	3 years ago
+:a:	optimized images with ImageOptim	2 years ago
+:ab:	Optimize all images in public/graphics	3 years ago
+:abc:	optimized images with ImageOptim	2 years ago
+:abcd:	optimized images with ImageOptim	2 years ago
+:accept:	optimized images with ImageOptim	2 years ago
+:aerial_tramway:	optimized images with ImageOptim	2 years ago
+:airplane:	Optimize all images in public/graphics	3 years ago
+:alarm_clock:	optimized images with ImageOptim	2 years ago
+:alien:	optimized images with ImageOptim	2 years ago
+:ambulance:	Optimize all images in public/graphics	3 years ago
+:anchor:	optimized images with ImageOptim	2 years ago
+:angel:	Optimize all images in public/graphics	3 years ago
+:anger:	Optimize all images in public/graphics	3 years ago
+:angry:	Optimize all images in public/graphics	3 years ago
+:anguished:	Optimizes Images using ImageOptim	2 years ago
+:ant:	optimized images with ImageOptim	2 years ago
+:apple:	Optimize all images in public/graphics	3 years ago
+:aquarius:	Optimize all images in public/graphics	3 years ago
+:aries:	Some images optimized with OptiPNG on maximum compression parameters …	9 months ago
+:arrow_backward:	Optimize all images in public/graphics	3 years ago
+:arrow_double_down:	optimized images with ImageOptim	2 years ago
+:arrow_double_up:	optimized images using image_optim	5 months ago
+:arrow_down:	optimized images with ImageOptim	2 years ago
+:arrow_down_small:	Some images optimized with OptiPNG on maximum compression parameters …	9 months ago
+:arrow_forward:	Optimize all images in public/graphics	3 years ago
+:arrow_heading_down:	optimized images with ImageOptim	2 years ago
+:arrow_heading_up:	optimized images with ImageOptim	2 years ago
+:arrow_left:	Optimize all images in public/graphics	3 years ago
+:arrow_lower_left:	optimized images with ImageOptim	2 years ago
+:arrow_lower_right:	Optimize all images in public/graphics	3 years ago
+:arrow_right:	Optimize all images in public/graphics	3 years ago
+:arrow_right_hook:	optimized images with ImageOptim	2 years ago
+:arrow_up:	optimized images with ImageOptim	2 years ago
+:arrow_up_down:	optimized images using image_optim	5 months ago
+:arrow_up_small:	Optimizes Images using ImageOptim	2 years ago
+:arrow_upper_left:	Some images optimized with OptiPNG on maximum compression parameters …	9 months ago
+:arrow_upper_right:	optimized images with ImageOptim	2 years ago
+:arrows_clockwise:	optimized images with ImageOptim	2 years ago
+:arrows_counterclockwise:	optimized images using image_optim	5 months ago
+:art:	Optimize all images in public/graphics	3 years ago
+:articulated_lorry:	optimized images with ImageOptim	2 years ago
+:astonished:	Optimize all images in public/graphics	3 years ago
+:atm:	Optimize all images in public/graphics	3 years ago
+:b:	Optimize all images in public/graphics	3 years ago
+:baby:	Optimize all images in public/graphics	3 years ago
+:baby_bottle:	optimized images with ImageOptim	2 years ago
+:baby_chick:	Optimize all images in public/graphics	3 years ago
+:baby_symbol:	Optimize all images in public/graphics	3 years ago
+:baggage_claim:	optimized images with ImageOptim	2 years ago
+:balloon:	Optimize all images in public/graphics	3 years ago
+:ballot_box_with_check:	optimized images with ImageOptim	2 years ago
+:bamboo:	Optimize all images in public/graphics	3 years ago
+:banana:	optimized images with ImageOptim	2 years ago
+:bangbang:	optimized images with ImageOptim	2 years ago
+:bank:	Optimize all images in public/graphics	3 years ago
+:bar_chart:	Optimizes Images using ImageOptim	2 years ago
+:barber:	Optimize all images in public/graphics	3 years ago
+:baseball:	Optimize all images in public/graphics	3 years ago
+:basketball:	Optimize all images in public/graphics	3 years ago
+:bath:	Optimize all images in public/graphics	3 years ago
+:bathtub:	optimized images with ImageOptim	2 years ago
+:battery:	optimized images with ImageOptim	2 years ago
+:bear:	Optimize all images in public/graphics	3 years ago
+:bee:	added new emoji assets	2 years ago
+:beer:	Optimize all images in public/graphics	3 years ago
+:beers:	Optimize all images in public/graphics	3 years ago
+:beetle:	optimized images with ImageOptim	2 years ago
+:beginner:	Optimize all images in public/graphics	3 years ago
+:bell:	Optimize all images in public/graphics	3 years ago
+:bento:	Some images optimized with OptiPNG on maximum compression parameters …	9 months ago
+:bicyclist:	optimized images using image_optim	5 months ago
+:bike:	Optimize all images in public/graphics	3 years ago
+:bikini:	Optimize all images in public/graphics	3 years ago
+:bird:	Optimize all images in public/graphics	3 years ago
+:birthday:	Optimize all images in public/graphics	3 years ago
+:black_circle:	optimized images with ImageOptim	2 years ago
+:black_joker:	optimized images with ImageOptim	2 years ago
+:black_nib:	optimized images with ImageOptim	2 years ago
+:black_square:	optimized images with ImageOptim	2 years ago
+:black_square_button:	Optimizes Images using ImageOptim	2 years ago
+:blossom:	optimized images with ImageOptim	2 years ago
+:blowfish:	Optimizes Images using ImageOptim	2 years ago
+:blue_book:	optimized images with ImageOptim	2 years ago
+:blue_car:	Optimize all images in public/graphics	3 years ago
+:blue_heart:	Optimize all images in public/graphics	3 years ago
+:blush:	Optimize all images in public/graphics	3 years ago
+:boar:	Optimize all images in public/graphics	3 years ago
+:boat:	Optimize all images in public/graphics	3 years ago
+:bomb:	Optimize all images in public/graphics	3 years ago
+:book:	Optimize all images in public/graphics	3 years ago
+:bookmark:	optimized images using image_optim	5 months ago
+:bookmark_tabs:	optimized images using image_optim	5 months ago
+:books:	optimized images with ImageOptim	2 years ago
+:boom:	optimized images using image_optim	5 months ago
+:boot:	Optimize all images in public/graphics	3 years ago
+:bouquet:	Optimize all images in public/graphics	3 years ago
+:bow:	Optimize all images in public/graphics	3 years ago
+:bowling:	optimized images with ImageOptim	2 years ago
+:bowtie:	Optimize all images in public/graphics	3 years ago
+:boy:	Optimize all images in public/graphics	3 years ago
+:bread:	Optimize all images in public/graphics	3 years ago
+:bride_with_veil:	optimized images with ImageOptim	2 years ago
+:bridge_at_night:	optimized images with ImageOptim	2 years ago
+:briefcase:	Optimize all images in public/graphics	3 years ago
+:broken_heart:	Optimize all images in public/graphics	3 years ago
+:bug:	Optimize all images in public/graphics	3 years ago
+:bulb:	Optimize all images in public/graphics	3 years ago
+:bullettrain_front:	Optimize all images in public/graphics	3 years ago
+:bullettrain_side:	Optimize all images in public/graphics	3 years ago
+:bus:	Optimize all images in public/graphics	3 years ago
+:busstop:	Optimize all images in public/graphics	3 years ago
+:bust_in_silhouette:	optimized images using image_optim	5 months ago
+:busts_in_silhouette:	optimized images with ImageOptim	2 years ago
+:cactus:	Optimize all images in public/graphics	3 years ago
+:cake:	Optimize all images in public/graphics	3 years ago
+:calendar:	optimized images with ImageOptim	2 years ago
+:calling:	Optimize all images in public/graphics	3 years ago
+:camel:	Optimize all images in public/graphics	3 years ago
+:camera:	Optimize all images in public/graphics	3 years ago
+:cancer:	Optimize all images in public/graphics	3 years ago
+:candy:	optimized images with ImageOptim	2 years ago
+:capital_abcd:	optimized images with ImageOptim	2 years ago
+:capricorn:	Optimize all images in public/graphics	3 years ago
+:car:	Optimize all images in public/graphics	3 years ago
+:card_index:	optimized images with ImageOptim	2 years ago
+:carousel_horse:	optimized images with ImageOptim	2 years ago
+:cat:	Optimize all images in public/graphics	3 years ago
+:cat2:	Optimizes Images using ImageOptim	2 years ago
+:cd:	Optimize all images in public/graphics	3 years ago
+:chart:	Optimize all images in public/graphics	3 years ago
+:chart_with_downwards_trend:	Optimizes Images using ImageOptim	2 years ago
+:chart_with_upwards_trend:	Optimizes Images using ImageOptim	2 years ago
+:checkered_flag:	Optimize all images in public/graphics	3 years ago
+:cherries:	optimized images with ImageOptim	2 years ago
+:cherry_blossom:	Optimize all images in public/graphics	3 years ago
+:chestnut:	optimized images with ImageOptim	2 years ago
+:chicken:	Optimize all images in public/graphics	3 years ago
+:children_crossing:	optimized images with ImageOptim	2 years ago
+:chocolate_bar:	optimized images with ImageOptim	2 years ago
+:christmas_tree:	Optimize all images in public/graphics	3 years ago
+:church:	Optimize all images in public/graphics	3 years ago
+:cinema:	Optimize all images in public/graphics	3 years ago
+:circus_tent:	optimized images with ImageOptim	2 years ago
+:city_sunrise:	Optimize all images in public/graphics	3 years ago
+:city_sunset:	Optimize all images in public/graphics	3 years ago
+:cl:	optimized images with ImageOptim	2 years ago
+:clap:	Optimize all images in public/graphics	3 years ago
+:clapper:	Optimize all images in public/graphics	3 years ago
+:clipboard:	optimized images with ImageOptim	2 years ago
+:clock1:	Optimize all images in public/graphics	3 years ago
+:clock10:	Optimize all images in public/graphics	3 years ago
+:clock1030:	Optimizes Images using ImageOptim	2 years ago
+:clock11:	Optimize all images in public/graphics	3 years ago
+:clock1130:	optimized images with ImageOptim	2 years ago
+:clock12:	Optimize all images in public/graphics	3 years ago
+:clock1230:	optimized images with ImageOptim	2 years ago
+:clock130:	Optimizes Images using ImageOptim	2 years ago
+:clock2:	Optimize all images in public/graphics	3 years ago
+:clock230:	optimized images with ImageOptim	2 years ago
+:clock3:	Optimize all images in public/graphics	3 years ago
+:clock330:	optimized images with ImageOptim	2 years ago
+:clock4:	Optimize all images in public/graphics	3 years ago
+:clock430:	Optimizes Images using ImageOptim	2 years ago
+:clock5:	Optimize all images in public/graphics	3 years ago
+:clock530:	optimized images with ImageOptim	2 years ago
+:clock6:	Optimize all images in public/graphics	3 years ago
+:clock630:	optimized images with ImageOptim	2 years ago
+:clock7:	Optimize all images in public/graphics	3 years ago
+:clock730:	Optimizes Images using ImageOptim	2 years ago
+:clock8:	Optimize all images in public/graphics	3 years ago
+:clock830:	Optimizes Images using ImageOptim	2 years ago
+:clock9:	Optimize all images in public/graphics	3 years ago
+:clock930:	optimized images with ImageOptim	2 years ago
+:closed_book:	optimized images with ImageOptim	2 years ago
+:closed_lock_with_key:	optimized images with ImageOptim	2 years ago
+:closed_umbrella:	Optimize all images in public/graphics	3 years ago
+:cloud:	Optimize all images in public/graphics	3 years ago
+:clubs:	Optimize all images in public/graphics	3 years ago
+:cn:	Optimize all images in public/graphics	3 years ago
+:cocktail:	Optimize all images in public/graphics	3 years ago
+:coffee:	Optimize all images in public/graphics	3 years ago
+:cold_sweat:	Optimize all images in public/graphics	3 years ago
+:collision:	optimized images using image_optim	5 months ago
+:computer:	Optimize all images in public/graphics	3 years ago
+:confetti_ball:	optimized images with ImageOptim	2 years ago
+:confounded:	Optimize all images in public/graphics	3 years ago
+:confused:	Optimizes Images using ImageOptim	2 years ago
+:congratulations:	optimized images using image_optim	5 months ago
+:construction:	Optimize all images in public/graphics	3 years ago
+:construction_worker:	Optimize all images in public/graphics	3 years ago
+:convenience_store:	Optimize all images in public/graphics	3 years ago
+:cookie:	optimized images with ImageOptim	2 years ago
+:cool:	Optimize all images in public/graphics	3 years ago
+:cop:	Optimize all images in public/graphics	3 years ago
+:copyright:	optimized images with ImageOptim	2 years ago
+:corn:	optimized images with ImageOptim	2 years ago
+:couple:	Optimize all images in public/graphics	3 years ago
+:couple_with_heart:	Optimize all images in public/graphics	3 years ago
+:couplekiss:	Optimize all images in public/graphics	3 years ago
+:cow:	Optimize all images in public/graphics	3 years ago
+:cow2:	optimized images with ImageOptim	2 years ago
+:credit_card:	optimized images with ImageOptim	2 years ago
+:crocodile:	optimized images with ImageOptim	2 years ago
+:crossed_flags:	Optimize all images in public/graphics	3 years ago
+:crown:	Optimize all images in public/graphics	3 years ago
+:cry:	Optimize all images in public/graphics	3 years ago
+:crying_cat_face:	optimized images with ImageOptim	2 years ago
+:crystal_ball:	optimized images with ImageOptim	2 years ago
+:cupid:	Optimize all images in public/graphics	3 years ago
+:curly_loop:	Optimizes Images using ImageOptim	2 years ago
+:currency_exchange:	optimized images with ImageOptim	2 years ago
+:curry:	Optimize all images in public/graphics	3 years ago
+:custard:	optimized images with ImageOptim	2 years ago
+:customs:	optimized images with ImageOptim	2 years ago
+:cyclone:	Optimize all images in public/graphics	3 years ago
+:dancer:	optimized images using image_optim	5 months ago
+:dancers:	Optimize all images in public/graphics	3 years ago
+:dango:	Optimize all images in public/graphics	3 years ago
+:dart:	optimized images using image_optim	5 months ago
+:dash:	Optimize all images in public/graphics	3 years ago
+:date:	optimized images with ImageOptim	2 years ago
+:de:	Optimize all images in public/graphics	3 years ago
+:deciduous_tree:	Optimizes Images using ImageOptim	2 years ago
+:department_store:	Optimize all images in public/graphics	3 years ago
+:diamond_shape_with_a_dot_inside:	optimized images with ImageOptim	2 years ago
+:diamonds:	Optimize all images in public/graphics	3 years ago
+:disappointed:	Optimize all images in public/graphics	3 years ago
+:disappointed_relieved:	Add :disappointed_relieved:	2 years ago
+:dizzy:	optimized images using image_optim	5 months ago
+:dizzy_face:	optimized images with ImageOptim	2 years ago
+:do_not_litter:	optimized images with ImageOptim	2 years ago
+:dog:	Optimize all images in public/graphics	3 years ago
+:dog2:	optimized images with ImageOptim	2 years ago
+:dollar:	optimized images with ImageOptim	2 years ago
+:dolls:	Optimize all images in public/graphics	3 years ago
+:dolphin:	Optimize all images in public/graphics	3 years ago
+:donut:	:donut: emoji	a year ago
+:door:	optimized images with ImageOptim	2 years ago
+:doughnut:	optimized images with ImageOptim	2 years ago
+:dragon:	Optimizes Images using ImageOptim	2 years ago
+:dragon_face:	optimized images with ImageOptim	2 years ago
+:dress:	Optimize all images in public/graphics	3 years ago
+:dromedary_camel:	optimized images with ImageOptim	2 years ago
+:droplet:	Optimizes Images using ImageOptim	2 years ago
+:dvd:	Optimize all images in public/graphics	3 years ago
+:e-mail:	optimized images with ImageOptim	2 years ago
+:ear:	Optimize all images in public/graphics	3 years ago
+:ear_of_rice:	Optimize all images in public/graphics	3 years ago
+:earth_africa:	optimized images with ImageOptim	2 years ago
+:earth_americas:	optimized images with ImageOptim	2 years ago
+:earth_asia:	optimized images with ImageOptim	2 years ago
+:egg:	Optimize all images in public/graphics	3 years ago
+:eggplant:	Optimize all images in public/graphics	3 years ago
+:eight:	Number changes: 0->zero, 1->one, etc	2 years ago
+:eight_pointed_black_star:	optimized images using image_optim	5 months ago
+:eight_spoked_asterisk:	Optimize all images in public/graphics	3 years ago
+:electric_plug:	optimized images using image_optim	5 months ago
+:elephant:	Optimize all images in public/graphics	3 years ago
+:email:	Optimize all images in public/graphics	3 years ago
+:end:	optimized images using image_optim	5 months ago
+:envelope:	optimized images with ImageOptim	2 years ago
+:es:	Optimize all images in public/graphics	3 years ago
+:euro:	optimized images with ImageOptim	2 years ago
+:european_castle:	Optimize all images in public/graphics	3 years ago
+:european_post_office:	optimized images with ImageOptim	2 years ago
+:evergreen_tree:	optimized images with ImageOptim	2 years ago
+:exclamation:	optimized images with ImageOptim	2 years ago
+:expressionless:	Optimizes Images using ImageOptim	2 years ago
+:eyeglasses:	optimized images with ImageOptim	2 years ago
+:eyes:	optimized images using image_optim	5 months ago
+:facepunch:	Optimizes Images using ImageOptim	2 years ago
+:factory:	Optimize all images in public/graphics	3 years ago
+:fallen_leaf:	Optimize all images in public/graphics	3 years ago
+:family:	optimized images with ImageOptim	2 years ago
+:fast_forward:	optimized images with ImageOptim	2 years ago
+:fax:	Optimize all images in public/graphics	3 years ago
+:fearful:	Optimize all images in public/graphics	3 years ago
+:feelsgood:	Optimize all images in public/graphics	3 years ago
+:feet:	Optimize all images in public/graphics	3 years ago
+:ferris_wheel:	Optimize all images in public/graphics	3 years ago
+:file_folder:	optimized images with ImageOptim	2 years ago
+:finnadie:	Optimize all images in public/graphics	3 years ago
+:fire:	Optimize all images in public/graphics	3 years ago
+:fire_engine:	Optimize all images in public/graphics	3 years ago
+:fireworks:	Optimize all images in public/graphics	3 years ago
+:first_quarter_moon:	optimized images with ImageOptim	2 years ago
+:first_quarter_moon_with_face:	optimized images with ImageOptim	2 years ago
+:fish:	Optimize all images in public/graphics	3 years ago
+:fish_cake:	optimized images with ImageOptim	2 years ago
+:fishing_pole_and_fish:	optimized images with ImageOptim	2 years ago
+:fist:	Optimize all images in public/graphics	3 years ago
+:five:	Number changes: 0->zero, 1->one, etc	2 years ago
+:flags:	Optimize all images in public/graphics	3 years ago
+:flashlight:	optimized images with ImageOptim	2 years ago
+:floppy_disk:	optimized images with ImageOptim	2 years ago
+:flower_playing_cards:	optimized images with ImageOptim	2 years ago
+:flushed:	optimized images with ImageOptim	2 years ago
+:foggy:	optimized images with ImageOptim	2 years ago
+:football:	Optimize all images in public/graphics	3 years ago
+:fork_and_knife:	Optimize all images in public/graphics	3 years ago
+:fountain:	Optimize all images in public/graphics	3 years ago
+:four:	Number changes: 0->zero, 1->one, etc	2 years ago
+:four_leaf_clover:	Optimize all images in public/graphics	3 years ago
+:fr:	Optimize all images in public/graphics	3 years ago
+:free:	optimized images with ImageOptim	2 years ago
+:fried_shrimp:	optimized images with ImageOptim	2 years ago
+:fries:	Optimize all images in public/graphics	3 years ago
+:frog:	Optimize all images in public/graphics	3 years ago
+:frowning:	optimized images using image_optim	5 months ago
+:fu:	:fu:	2 years ago
+:fuelpump:	Optimize all images in public/graphics	3 years ago
+:full_moon:	optimized images with ImageOptim	2 years ago
+:full_moon_with_face:	Optimizes Images using ImageOptim	2 years ago
+:game_die:	optimized images using image_optim	5 months ago
+:gb:	Optimize all images in public/graphics	3 years ago
+:gem:	Optimize all images in public/graphics	3 years ago
+:gemini:	Optimize all images in public/graphics	3 years ago
+:ghost:	Optimize all images in public/graphics	3 years ago
+:gift:	Optimize all images in public/graphics	3 years ago
+:gift_heart:	Optimize all images in public/graphics	3 years ago
+:girl:	Optimize all images in public/graphics	3 years ago
+:globe_with_meridians:	optimized images with ImageOptim	2 years ago
+:goat:	optimized images with ImageOptim	2 years ago
+:goberserk:	Optimize all images in public/graphics	3 years ago
+:godmode:	Optimize all images in public/graphics	3 years ago
+:golf:	Optimize all images in public/graphics	3 years ago
+:grapes:	optimized images with ImageOptim	2 years ago
+:green_apple:	optimized images with ImageOptim	2 years ago
+:green_book:	optimized images with ImageOptim	2 years ago
+:green_heart:	Optimize all images in public/graphics	3 years ago
+:grey_exclamation:	optimized images using image_optim	5 months ago
+:grey_question:	optimized images with ImageOptim	2 years ago
+:grimacing:	optimized images using image_optim	5 months ago
+:grin:	Optimize all images in public/graphics	3 years ago
+:grinning:	Optimizes Images using ImageOptim	2 years ago
+:guardsman:	Optimize all images in public/graphics	3 years ago
+:guitar:	Optimize all images in public/graphics	3 years ago
+:gun:	Optimize all images in public/graphics	3 years ago
+:haircut:	Optimize all images in public/graphics	3 years ago
+:hamburger:	Optimize all images in public/graphics	3 years ago
+:hammer:	Optimize all images in public/graphics	3 years ago
+:hamster:	Optimize all images in public/graphics	3 years ago
+:hand:	Optimize all images in public/graphics	3 years ago
+:handbag:	Optimize all images in public/graphics	3 years ago
+:hankey:	Optimize all images in public/graphics	3 years ago
+:hash:	Optimize all images in public/graphics	3 years ago
+:hatched_chick:	optimized images with ImageOptim	2 years ago
+:hatching_chick:	optimized images with ImageOptim	2 years ago
+:headphones:	Optimize all images in public/graphics	3 years ago
+:hear_no_evil:	optimized images with ImageOptim	2 years ago
+:heart:	Optimize all images in public/graphics	3 years ago
+:heart_decoration:	Optimize all images in public/graphics	3 years ago
+:heart_eyes:	Optimize all images in public/graphics	3 years ago
+:heart_eyes_cat:	optimized images with ImageOptim	2 years ago
+:heartbeat:	Optimize all images in public/graphics	3 years ago
+:heartpulse:	Optimize all images in public/graphics	3 years ago
+:hearts:	Optimize all images in public/graphics	3 years ago
+:heavy_check_mark:	Optimizes Images using ImageOptim	2 years ago
+:heavy_division_sign:	optimized images using image_optim	5 months ago
+:heavy_dollar_sign:	optimized images using image_optim	5 months ago
+:heavy_exclamation_mark:	optimized images with ImageOptim	2 years ago
+:heavy_minus_sign:	Optimizes Images using ImageOptim	2 years ago
+:heavy_multiplication_x:	optimized images with ImageOptim	2 years ago
+:heavy_plus_sign:	optimized images using image_optim	5 months ago
+:helicopter:	optimized images with ImageOptim	2 years ago
+:herb:	optimized images with ImageOptim	2 years ago
+:hibiscus:	Optimize all images in public/graphics	3 years ago
+:high_brightness:	optimized images with ImageOptim	2 years ago
+:high_heel:	Optimize all images in public/graphics	3 years ago
+:hocho:	Optimizes Images using ImageOptim	2 years ago
+:honey_pot:	optimized images with ImageOptim	2 years ago
+:honeybee:	optimized images with ImageOptim	2 years ago
+:horse:	Optimize all images in public/graphics	3 years ago
+:horse_racing:	optimized images with ImageOptim	2 years ago
+:hospital:	Optimize all images in public/graphics	3 years ago
+:hotel:	Optimize all images in public/graphics	3 years ago
+:hotsprings:	Optimize all images in public/graphics	3 years ago
+:hourglass:	optimized images with ImageOptim	2 years ago
+:hourglass_flowing_sand:	Optimizes Images using ImageOptim	2 years ago
+:house:	Optimize all images in public/graphics	3 years ago
+:house_with_garden:	optimized images using image_optim	5 months ago
+:hurtrealbad:	Optimize all images in public/graphics	3 years ago
+:hushed:	optimized images using image_optim	5 months ago
+:ice_cream:	optimized images with ImageOptim	2 years ago
+:icecream:	Optimize all images in public/graphics	3 years ago
+:id:	Optimize all images in public/graphics	3 years ago
+:ideograph_advantage:	optimized images using image_optim	5 months ago
+:imp:	Some images optimized with OptiPNG on maximum compression parameters …	9 months ago
+:inbox_tray:	optimized images with ImageOptim	2 years ago
+:incoming_envelope:	optimized images with ImageOptim	2 years ago
+:information_desk_person:	Optimize all images in public/graphics	3 years ago
+:information_source:	optimized images with ImageOptim	2 years ago
+:innocent:	optimized images with ImageOptim	2 years ago
+:interrobang:	optimized images with ImageOptim	2 years ago
+:iphone:	Optimize all images in public/graphics	3 years ago
+:it:	Optimize all images in public/graphics	3 years ago
+:izakaya_lantern:	optimized images with ImageOptim	2 years ago
+:jack_o_lantern:	Optimize all images in public/graphics	3 years ago
+:japan:	optimized images with ImageOptim	2 years ago
+:japanese_castle:	Optimize all images in public/graphics	3 years ago
+:japanese_goblin:	optimized images with ImageOptim	2 years ago
+:japanese_ogre:	optimized images with ImageOptim	2 years ago
+:jeans:	optimized images with ImageOptim	2 years ago
+:joy:	Optimize all images in public/graphics	3 years ago
+:joy_cat:	optimized images with ImageOptim	2 years ago
+:jp:	Optimize all images in public/graphics	3 years ago
+:key:	Optimize all images in public/graphics	3 years ago
+:keycap_ten:	optimized images with ImageOptim	2 years ago
+:kimono:	Optimize all images in public/graphics	3 years ago
+:kiss:	Optimize all images in public/graphics	3 years ago
+:kissing:	Optimizes Images using ImageOptim	2 years ago
+:kissing_cat:	optimized images with ImageOptim	2 years ago
+:kissing_closed_eyes:	added new emoji assets	2 years ago
+:kissing_face:	Optimize all images in public/graphics	3 years ago
+:kissing_heart:	Optimize all images in public/graphics	3 years ago
+:kissing_smiling_eyes:	Optimizes Images using ImageOptim	2 years ago
+:koala:	Optimize all images in public/graphics	3 years ago
+:koko:	Optimize all images in public/graphics	3 years ago
+:kr:	Optimize all images in public/graphics	3 years ago
+:large_blue_circle:	optimized images with ImageOptim	2 years ago
+:large_blue_diamond:	optimized images with ImageOptim	2 years ago
+:large_orange_diamond:	Optimizes Images using ImageOptim	2 years ago
+:last_quarter_moon:	Some images optimized with OptiPNG on maximum compression parameters …	9 months ago
+:last_quarter_moon_with_face:	optimized images with ImageOptim	2 years ago
+:laughing:	optimized images with ImageOptim	2 years ago
+:leaves:	Optimize all images in public/graphics	3 years ago
+:ledger:	optimized images with ImageOptim	2 years ago
+:left_luggage:	optimized images with ImageOptim	2 years ago
+:left_right_arrow:	optimized images with ImageOptim	2 years ago
+:leftwards_arrow_with_hook:	optimized images with ImageOptim	2 years ago
+:lemon:	optimized images with ImageOptim	2 years ago
+:leo:	Optimize all images in public/graphics	3 years ago
+:leopard:	Optimizes Images using ImageOptim	2 years ago
+:libra:	optimized images using image_optim	5 months ago
+:light_rail:	optimized images with ImageOptim	2 years ago
+:link:	Optimizes Images using ImageOptim	2 years ago
+:lips:	Optimize all images in public/graphics	3 years ago
+:lipstick:	Optimize all images in public/graphics	3 years ago
+:lock:	Optimize all images in public/graphics	3 years ago
+:lock_with_ink_pen:	optimized images with ImageOptim	2 years ago
+:lollipop:	optimized images with ImageOptim	2 years ago
+:loop:	Optimize all images in public/graphics	3 years ago
+:loudspeaker:	Optimize all images in public/graphics	3 years ago
+:love_hotel:	Optimize all images in public/graphics	3 years ago
+:love_letter:	optimized images with ImageOptim	2 years ago
+:low_brightness:	optimized images with ImageOptim	2 years ago
+:m:	optimized images using image_optim	5 months ago
+:mag:	Optimize all images in public/graphics	3 years ago
+:mag_right:	optimized images with ImageOptim	2 years ago
+:mahjong:	Optimize all images in public/graphics	3 years ago
+:mailbox:	Optimize all images in public/graphics	3 years ago
+:mailbox_closed:	optimized images with ImageOptim	2 years ago
+:mailbox_with_mail:	optimized images with ImageOptim	2 years ago
+:mailbox_with_no_mail:	optimized images with ImageOptim	2 years ago
+:man:	Optimize all images in public/graphics	3 years ago
+:man_with_gua_pi_mao:	Optimize all images in public/graphics	3 years ago
+:man_with_turban:	Optimize all images in public/graphics	3 years ago
+:mans_shoe:	optimized images with ImageOptim	2 years ago
+:maple_leaf:	Optimize all images in public/graphics	3 years ago
+:mask:	Optimize all images in public/graphics	3 years ago
+:massage:	Optimize all images in public/graphics	3 years ago
+:meat_on_bone:	Optimizes Images using ImageOptim	2 years ago
+:mega:	Optimize all images in public/graphics	3 years ago
+:melon:	optimized images with ImageOptim	2 years ago
+:memo:	Optimize all images in public/graphics	3 years ago
+:mens:	Optimize all images in public/graphics	3 years ago
+:metal:	Optimize all images in public/graphics	3 years ago
+:metro:	Optimize all images in public/graphics	3 years ago
+:microphone:	Optimize all images in public/graphics	3 years ago
+:microscope:	optimized images using image_optim	5 months ago
+:milky_way:	optimized images with ImageOptim	2 years ago
+:minibus:	optimized images with ImageOptim	2 years ago
+:minidisc:	Optimize all images in public/graphics	3 years ago
+:mobile_phone_off:	Optimize all images in public/graphics	3 years ago
+:money_with_wings:	optimized images using image_optim	5 months ago
+:moneybag:	Optimize all images in public/graphics	3 years ago
+:monkey:	Optimize all images in public/graphics	3 years ago
+:monkey_face:	Optimize all images in public/graphics	3 years ago
+:monorail:	optimized images with ImageOptim	2 years ago
+:moon:	Optimize all images in public/graphics	3 years ago
+:mortar_board:	optimized images using image_optim	5 months ago
+:mount_fuji:	Optimize all images in public/graphics	3 years ago
+:mountain_bicyclist:	optimized images with ImageOptim	2 years ago
+:mountain_cableway:	optimized images with ImageOptim	2 years ago
+:mountain_railway:	optimized images with ImageOptim	2 years ago
+:mouse:	Optimize all images in public/graphics	3 years ago
+:mouse2:	optimized images with ImageOptim	2 years ago
+:movie_camera:	Optimize all images in public/graphics	3 years ago
+:moyai:	optimized images with ImageOptim	2 years ago
+:muscle:	Optimize all images in public/graphics	3 years ago
+:mushroom:	optimized images with ImageOptim	2 years ago
+:musical_keyboard:	optimized images with ImageOptim	2 years ago
+:musical_note:	Optimize all images in public/graphics	3 years ago
+:musical_score:	Optimizes Images using ImageOptim	2 years ago
+:mute:	optimized images with ImageOptim	2 years ago
+:nail_care:	Optimize all images in public/graphics	3 years ago
+:name_badge:	optimized images with ImageOptim	2 years ago
+:neckbeard:	optimized images using image_optim	5 months ago
+:necktie:	Optimize all images in public/graphics	3 years ago
+:negative_squared_cross_mark:	optimized images with ImageOptim	2 years ago
+:neutral_face:	optimized images with ImageOptim	2 years ago
+:new:	Optimize all images in public/graphics	3 years ago
+:new_moon:	Optimizes Images using ImageOptim	2 years ago
+:new_moon_with_face:	optimized images using image_optim	5 months ago
+:newspaper:	optimized images using image_optim	5 months ago
+:ng:	optimized images with ImageOptim	2 years ago
+:nine:	Number changes: 0->zero, 1->one, etc	2 years ago
+:no_bell:	optimized images with ImageOptim	2 years ago
+:no_bicycles:	optimized images with ImageOptim	2 years ago
+:no_entry:	optimized images with ImageOptim	2 years ago
+:no_entry_sign:	optimized images using image_optim	5 months ago
+:no_good:	Optimize all images in public/graphics	3 years ago
+:no_mobile_phones:	optimized images with ImageOptim	2 years ago
+:no_mouth:	Optimizes Images using ImageOptim	2 years ago
+:no_pedestrians:	optimized images using image_optim	5 months ago
+:no_smoking:	Optimize all images in public/graphics	3 years ago
+:non-potable_water:	optimized images with ImageOptim	2 years ago
+:nose:	Optimize all images in public/graphics	3 years ago
+:notebook:	optimized images using image_optim	5 months ago
+:notebook_with_decorative_cover:	optimized images with ImageOptim	2 years ago
+:notes:	Optimize all images in public/graphics	3 years ago
+:nut_and_bolt:	optimized images with ImageOptim	2 years ago
+:o:	optimized images using image_optim	5 months ago
+:o2:	Optimize all images in public/graphics	3 years ago
+:ocean:	Optimize all images in public/graphics	3 years ago
+:octocat:	optimized images using image_optim	5 months ago
+:octopus:	Optimize all images in public/graphics	3 years ago
+:oden:	Optimize all images in public/graphics	3 years ago
+:office:	optimized images using image_optim	5 months ago
+:ok:	Optimize all images in public/graphics	3 years ago
+:ok_hand:	Optimize all images in public/graphics	3 years ago
+:ok_woman:	Optimize all images in public/graphics	3 years ago
+:older_man:	Optimize all images in public/graphics	3 years ago
+:older_woman:	Optimize all images in public/graphics	3 years ago
+:on:	optimized images using image_optim	5 months ago
+:oncoming_automobile:	optimized images with ImageOptim	2 years ago
+:oncoming_bus:	optimized images with ImageOptim	2 years ago
+:oncoming_police_car:	optimized images with ImageOptim	2 years ago
+:oncoming_taxi:	optimized images with ImageOptim	2 years ago
+:one:	Number changes: 0->zero, 1->one, etc	2 years ago
+:open_file_folder:	optimized images with ImageOptim	2 years ago
+:open_hands:	optimized images using image_optim	5 months ago
+:open_mouth:	Optimizes Images using ImageOptim	2 years ago
+:ophiuchus:	Optimize all images in public/graphics	3 years ago
+:orange_book:	optimized images with ImageOptim	2 years ago
+:outbox_tray:	optimized images with ImageOptim	2 years ago
+:ox:	Optimizes Images using ImageOptim	2 years ago
+:page_facing_up:	optimized images using image_optim	5 months ago
+:page_with_curl:	optimized images using image_optim	5 months ago
+:pager:	optimized images with ImageOptim	2 years ago
+:palm_tree:	optimized images using image_optim	5 months ago
+:panda_face:	optimized images with ImageOptim	2 years ago
+:paperclip:	Optimizes Images using ImageOptim	2 years ago
+:parking:	Optimize all images in public/graphics	3 years ago
+:part_alternation_mark:	optimized images using image_optim	5 months ago
+:partly_sunny:	optimized images using image_optim	5 months ago
+:passport_control:	optimized images with ImageOptim	2 years ago
+:paw_prints:	optimized images with ImageOptim	2 years ago
+:peach:	optimized images with ImageOptim	2 years ago
+:pear:	optimized images with ImageOptim	2 years ago
+:pencil:	Optimize all images in public/graphics	3 years ago
+:pencil2:	optimized images using image_optim	5 months ago
+:penguin:	Optimize all images in public/graphics	3 years ago
+:pensive:	Optimize all images in public/graphics	3 years ago
+:performing_arts:	optimized images with ImageOptim	2 years ago
+:persevere:	optimized images with ImageOptim	2 years ago
+:person_frowning:	optimized images with ImageOptim	2 years ago
+:person_with_blond_hair:	Optimize all images in public/graphics	3 years ago
+:person_with_pouting_face:	optimized images with ImageOptim	2 years ago
+:phone:	Optimize all images in public/graphics	3 years ago
+:pig:	Optimize all images in public/graphics	3 years ago
+:pig2:	optimized images with ImageOptim	2 years ago
+:pig_nose:	optimized images with ImageOptim	2 years ago
+:pill:	Optimize all images in public/graphics	3 years ago
+:pineapple:	optimized images with ImageOptim	2 years ago
+:pisces:	Optimizes Images using ImageOptim	2 years ago
+:pizza:	optimized images with ImageOptim	2 years ago
+:plus1:	Optimize all images in public/graphics	3 years ago
+:point_down:	Optimize all images in public/graphics	3 years ago
+:point_left:	Optimize all images in public/graphics	3 years ago
+:point_right:	Optimize all images in public/graphics	3 years ago
+:point_up:	Optimize all images in public/graphics	3 years ago
+:point_up_2:	Optimize all images in public/graphics	3 years ago
+:police_car:	Optimize all images in public/graphics	3 years ago
+:poodle:	optimized images with ImageOptim	2 years ago
+:poop:	Optimize all images in public/graphics	3 years ago
+:post_office:	Optimize all images in public/graphics	3 years ago
+:postal_horn:	optimized images using image_optim	5 months ago
+:postbox:	Optimize all images in public/graphics	3 years ago
+:potable_water:	optimized images with ImageOptim	2 years ago
+:pouch:	Optimizes Images using ImageOptim	2 years ago
+:poultry_leg:	optimized images with ImageOptim	2 years ago
+:pound:	optimized images with ImageOptim	2 years ago
+:pouting_cat:	optimized images with ImageOptim	2 years ago
+:pray:	Optimize all images in public/graphics	3 years ago
+:princess:	Optimize all images in public/graphics	3 years ago
+:punch:	Optimize all images in public/graphics	3 years ago
+:purple_heart:	Optimize all images in public/graphics	3 years ago
+:purse:	optimized images with ImageOptim	2 years ago
+:pushpin:	optimized images with ImageOptim	2 years ago
+:put_litter_in_its_place:	optimized images with ImageOptim	2 years ago
+:question:	Optimize all images in public/graphics	3 years ago
+:rabbit:	Optimize all images in public/graphics	3 years ago
+:rabbit2:	optimized images using image_optim	5 months ago
+:racehorse:	Optimize all images in public/graphics	3 years ago
+:radio:	Optimize all images in public/graphics	3 years ago
+:radio_button:	optimized images with ImageOptim	2 years ago
+:rage:	Optimize all images in public/graphics	3 years ago
+:rage1:	Optimize all images in public/graphics	3 years ago
+:rage2:	Optimize all images in public/graphics	3 years ago
+:rage3:	Optimize all images in public/graphics	3 years ago
+:rage4:	Optimize all images in public/graphics	3 years ago
+:railway_car:	optimized images with ImageOptim	2 years ago
+:rainbow:	Optimize all images in public/graphics	3 years ago
+:raised_hand:	Properly document :raising_hand:	a year ago
+:raised_hands:	Optimize all images in public/graphics	3 years ago
+:raising_hand:	Properly document :raising_hand:	a year ago
+:ram:	optimized images with ImageOptim	2 years ago
+:ramen:	Optimize all images in public/graphics	3 years ago
+:rat:	optimized images using image_optim	5 months ago
+:recycle:	optimized images with ImageOptim	2 years ago
+:red_car:	Optimize all images in public/graphics	3 years ago
+:red_circle:	Optimize all images in public/graphics	3 years ago
+:registered:	optimized images with ImageOptim	2 years ago
+:relaxed:	Optimize all images in public/graphics	3 years ago
+:relieved:	Fix wrong image	2 years ago
+:repeat:	optimized images with ImageOptim	2 years ago
+:repeat_one:	optimized images with ImageOptim	2 years ago
+:restroom:	Optimize all images in public/graphics	3 years ago
+:revolving_hearts:	optimized images with ImageOptim	2 years ago
+:rewind:	optimized images with ImageOptim	2 years ago
+:ribbon:	Optimize all images in public/graphics	3 years ago
+:rice:	Optimize all images in public/graphics	3 years ago
+:rice_ball:	optimized images using image_optim	5 months ago
+:rice_cracker:	Optimize all images in public/graphics	3 years ago
+:rice_scene:	Optimize all images in public/graphics	3 years ago
+:ring:	Optimize all images in public/graphics	3 years ago
+:rocket:	Optimize all images in public/graphics	3 years ago
+:roller_coaster:	Optimize all images in public/graphics	3 years ago
+:rooster:	optimized images with ImageOptim	2 years ago
+:rose:	Optimize all images in public/graphics	3 years ago
+:rotating_light:	optimized images with ImageOptim	2 years ago
+:round_pushpin:	optimized images with ImageOptim	2 years ago
+:rowboat:	Optimizes Images using ImageOptim	2 years ago
+:ru:	Optimize all images in public/graphics	3 years ago
+:rugby_football:	optimized images with ImageOptim	2 years ago
+:runner:	Optimize all images in public/graphics	3 years ago
+:running:	Optimizes Images using ImageOptim	2 years ago
+:running_shirt_with_sash:	optimized images with ImageOptim	2 years ago
+:sa:	Optimize all images in public/graphics	3 years ago
+:sagittarius:	Optimize all images in public/graphics	3 years ago
+:sailboat:	Optimize all images in public/graphics	3 years ago
+:sake:	Optimize all images in public/graphics	3 years ago
+:sandal:	Optimize all images in public/graphics	3 years ago
+:santa:	Optimize all images in public/graphics	3 years ago
+:satellite:	Optimize all images in public/graphics	3 years ago
+:satisfied:	Fix wrong image	2 years ago
+:saxophone:	Optimize all images in public/graphics	3 years ago
+:school:	Optimize all images in public/graphics	3 years ago
+:school_satchel:	Optimize all images in public/graphics	3 years ago
+:scissors:	optimized images using image_optim	5 months ago
+:scorpius:	Optimize all images in public/graphics	3 years ago
+:scream:	optimized images with ImageOptim	2 years ago
+:scream_cat:	optimized images with ImageOptim	2 years ago
+:scroll:	optimized images with ImageOptim	2 years ago
+:seat:	Optimize all images in public/graphics	3 years ago
+:secret:	Optimize all images in public/graphics	3 years ago
+:see_no_evil:	optimized images with ImageOptim	2 years ago
+:seedling:	Optimizes Images using ImageOptim	2 years ago
+:seven:	Number changes: 0->zero, 1->one, etc	2 years ago
+:shaved_ice:	Optimize all images in public/graphics	3 years ago
+:sheep:	Optimize all images in public/graphics	3 years ago
+:shell:	Optimize all images in public/graphics	3 years ago
+:ship:	Optimize all images in public/graphics	3 years ago
+:shipit:	Optimize all images in public/graphics	3 years ago
+:shirt:	Optimize all images in public/graphics	3 years ago
+:shit:	Optimize all images in public/graphics	3 years ago
+:shoe:	Optimize all images in public/graphics	3 years ago
+:shower:	Optimizes Images using ImageOptim	2 years ago
+:signal_strength:	Optimize all images in public/graphics	3 years ago
+:six:	Number changes: 0->zero, 1->one, etc	2 years ago
+:six_pointed_star:	optimized images using image_optim	5 months ago
+:ski:	Optimize all images in public/graphics	3 years ago
+:skull:	Optimize all images in public/graphics	3 years ago
+:sleeping:	Optimizes Images using ImageOptim	2 years ago
+:sleepy:	Optimize all images in public/graphics	3 years ago
+:slot_machine:	Optimize all images in public/graphics	3 years ago
+:small_blue_diamond:	Optimizes Images using ImageOptim	2 years ago
+:small_orange_diamond:	optimized images with ImageOptim	2 years ago
+:small_red_triangle:	optimized images with ImageOptim	2 years ago
+:small_red_triangle_down:	optimized images with ImageOptim	2 years ago
+:smile:	Optimize all images in public/graphics	3 years ago
+:smile_cat:	optimized images with ImageOptim	2 years ago
+:smiley:	Optimize all images in public/graphics	3 years ago
+:smiley_cat:	optimized images with ImageOptim	2 years ago
+:smiling_imp:	optimized images with ImageOptim	2 years ago
+:smirk:	Optimize all images in public/graphics	3 years ago
+:smirk_cat:	optimized images with ImageOptim	2 years ago
+:smoking:	Optimize all images in public/graphics	3 years ago
+:snail:	optimized images with ImageOptim	2 years ago
+:snake:	Optimize all images in public/graphics	3 years ago
+:snowboarder:	optimized images with ImageOptim	2 years ago
+:snowflake:	optimized images with ImageOptim	2 years ago
+:snowman:	Optimize all images in public/graphics	3 years ago
+:sob:	optimized images with ImageOptim	2 years ago
+:soccer:	Optimize all images in public/graphics	3 years ago
+:soon:	optimized images using image_optim	5 months ago
+:sos:	optimized images with ImageOptim	2 years ago
+:sound:	optimized images with ImageOptim	2 years ago
+:space_invader:	Optimize all images in public/graphics	3 years ago
+:spades:	Optimize all images in public/graphics	3 years ago
+:spaghetti:	Optimize all images in public/graphics	3 years ago
+:sparkler:	Optimize all images in public/graphics	3 years ago
+:sparkles:	optimized images using image_optim	5 months ago
+:sparkling_heart:	Optimizes Images using ImageOptim	2 years ago
+:speak_no_evil:	optimized images with ImageOptim	2 years ago
+:speaker:	Optimize all images in public/graphics	3 years ago
+:speech_balloon:	optimized images with ImageOptim	2 years ago
+:speedboat:	Optimize all images in public/graphics	3 years ago
+:squirrel:	Optimize all images in public/graphics	3 years ago
+:star:	Optimize all images in public/graphics	3 years ago
+:star2:	Optimize all images in public/graphics	3 years ago
+:stars:	Optimize all images in public/graphics	3 years ago
+:station:	Optimize all images in public/graphics	3 years ago
+:statue_of_liberty:	Optimize all images in public/graphics	3 years ago
+:steam_locomotive:	optimized images with ImageOptim	2 years ago
+:stew:	Optimize all images in public/graphics	3 years ago
+:straight_ruler:	Optimizes Images using ImageOptim	2 years ago
+:strawberry:	Optimize all images in public/graphics	3 years ago
+:stuck_out_tongue:	Optimizes Images using ImageOptim	2 years ago
+:stuck_out_tongue_closed_eyes:	added new emoji assets	2 years ago
+:stuck_out_tongue_winking_eye:	added new emoji assets	2 years ago
+:sun_with_face:	optimized images with ImageOptim	2 years ago
+:sunflower:	Optimize all images in public/graphics	3 years ago
+:sunglasses:	optimized images using image_optim	5 months ago
+:sunny:	Optimize all images in public/graphics	3 years ago
+:sunrise:	Optimize all images in public/graphics	3 years ago
+:sunrise_over_mountains:	Optimize all images in public/graphics	3 years ago
+:surfer:	Optimize all images in public/graphics	3 years ago
+:sushi:	Optimize all images in public/graphics	3 years ago
+:suspect:	Optimize all images in public/graphics	3 years ago
+:suspension_railway:	optimized images with ImageOptim	2 years ago
+:sweat:	Optimize all images in public/graphics	3 years ago
+:sweat_drops:	Optimize all images in public/graphics	3 years ago
+:sweat_smile:	optimized images with ImageOptim	2 years ago
+:sweet_potato:	Optimizes Images using ImageOptim	2 years ago
+:swimmer:	Optimize all images in public/graphics	3 years ago
+:symbols:	optimized images with ImageOptim	2 years ago
+:syringe:	optimized images using image_optim	5 months ago
+:tada:	Optimize all images in public/graphics	3 years ago
+:tanabata_tree:	Optimizes Images using ImageOptim	2 years ago
+:tangerine:	Optimize all images in public/graphics	3 years ago
+:taurus:	Optimize all images in public/graphics	3 years ago
+:taxi:	Optimize all images in public/graphics	3 years ago
+:tea:	Optimize all images in public/graphics	3 years ago
+:telephone:	Optimize all images in public/graphics	3 years ago
+:telephone_receiver:	optimized images with ImageOptim	2 years ago
+:telescope:	optimized images using image_optim	5 months ago
+:tennis:	Optimize all images in public/graphics	3 years ago
+:tent:	Optimize all images in public/graphics	3 years ago
+:thought_balloon:	Optimizes Images using ImageOptim	2 years ago
+:three:	Number changes: 0->zero, 1->one, etc	2 years ago
+:thumbsdown:	Optimize all images in public/graphics	3 years ago
+:thumbsup:	Optimize all images in public/graphics	3 years ago
+:ticket:	Optimize all images in public/graphics	3 years ago
+:tiger:	Optimize all images in public/graphics	3 years ago
+:tiger2:	optimized images with ImageOptim	2 years ago
+:tired_face:	optimized images using image_optim	5 months ago
+:tm:	Optimize all images in public/graphics	3 years ago
+:toilet:	Optimize all images in public/graphics	3 years ago
+:tokyo_tower:	Optimize all images in public/graphics	3 years ago
+:tomato:	Optimize all images in public/graphics	3 years ago
+:tongue:	added new emoji assets	2 years ago
+:top:	Optimize all images in public/graphics	3 years ago
+:tophat:	Optimize all images in public/graphics	3 years ago
+:tractor:	optimized images with ImageOptim	2 years ago
+:traffic_light:	optimized images using image_optim	5 months ago
+:train:	Optimize all images in public/graphics	3 years ago
+:train2:	optimized images with ImageOptim	2 years ago
+:tram:	optimized images with ImageOptim	2 years ago
+:triangular_flag_on_post:	optimized images with ImageOptim	2 years ago
+:triangular_ruler:	optimized images with ImageOptim	2 years ago
+:trident:	Optimize all images in public/graphics	3 years ago
+:triumph:	optimized images with ImageOptim	2 years ago
+:trolleybus:	optimized images with ImageOptim	2 years ago
+:trollface:	optimized images using image_optim	5 months ago
+:trophy:	Optimize all images in public/graphics	3 years ago
+:tropical_drink:	optimized images with ImageOptim	2 years ago
+:tropical_fish:	Optimize all images in public/graphics	3 years ago
+:truck:	Optimize all images in public/graphics	3 years ago
+:trumpet:	Optimize all images in public/graphics	3 years ago
+:tshirt:	Optimize all images in public/graphics	3 years ago
+:tulip:	Optimize all images in public/graphics	3 years ago
+:turtle:	optimized images with ImageOptim	2 years ago
+:tv:	Optimize all images in public/graphics	3 years ago
+:twisted_rightwards_arrows:	optimized images with ImageOptim	2 years ago
+:two:	Number changes: 0->zero, 1->one, etc	2 years ago
+:two_hearts:	optimized images with ImageOptim	2 years ago
+:two_men_holding_hands:	optimized images with ImageOptim	2 years ago
+:two_women_holding_hands:	optimized images with ImageOptim	2 years ago
+:u5272:	Optimize all images in public/graphics	3 years ago
+:u5408:	optimized images with ImageOptim	2 years ago
+:u55b6:	Optimize all images in public/graphics	3 years ago
+:u6307:	Optimize all images in public/graphics	3 years ago
+:u6708:	Optimize all images in public/graphics	3 years ago
+:u6709:	Optimize all images in public/graphics	3 years ago
+:u6e80:	Optimize all images in public/graphics	3 years ago
+:u7121:	Optimize all images in public/graphics	3 years ago
+:u7533:	Optimize all images in public/graphics	3 years ago
+:u7981:	optimized images with ImageOptim	2 years ago
+:u7a7a:	Optimize all images in public/graphics	3 years ago
+:uk:	optimized images with ImageOptim	2 years ago
+:umbrella:	Optimize all images in public/graphics	3 years ago
+:unamused:	Optimize all images in public/graphics	3 years ago
+:underage:	Optimize all images in public/graphics	3 years ago
+:unlock:	Optimize all images in public/graphics	3 years ago
+:up:	Optimize all images in public/graphics	3 years ago
+:us:	Optimize all images in public/graphics	3 years ago
+:v:	Optimize all images in public/graphics	3 years ago
+:vertical_traffic_light:	optimized images with ImageOptim	2 years ago
+:vhs:	Optimize all images in public/graphics	3 years ago
+:vibration_mode:	Optimize all images in public/graphics	3 years ago
+:video_camera:	optimized images with ImageOptim	2 years ago
+:video_game:	optimized images using image_optim	5 months ago
+:violin:	optimized images using image_optim	5 months ago
+:virgo:	Optimize all images in public/graphics	3 years ago
+:volcano:	optimized images with ImageOptim	2 years ago
+:vs:	Optimize all images in public/graphics	3 years ago
+:walking:	Optimize all images in public/graphics	3 years ago
+:waning_crescent_moon:	optimized images with ImageOptim	2 years ago
+:waning_gibbous_moon:	Optimizes Images using ImageOptim	2 years ago
+:warning:	optimized images using image_optim	5 months ago
+:watch:	optimized images with ImageOptim	2 years ago
+:water_buffalo:	optimized images with ImageOptim	2 years ago
+:watermelon:	Optimize all images in public/graphics	3 years ago
+:wave:	optimized images using image_optim	5 months ago
+:wavy_dash:	optimized images using image_optim	5 months ago
+:waxing_crescent_moon:	optimized images with ImageOptim	2 years ago
+:waxing_gibbous_moon:	Some images optimized with OptiPNG on maximum compression parameters …	9 months ago
+:wc:	Optimize all images in public/graphics	3 years ago
+:weary:	optimized images with ImageOptim	2 years ago
+:wedding:	Optimize all images in public/graphics	3 years ago
+:whale:	Optimize all images in public/graphics	3 years ago
+:whale2:	optimized images using image_optim	5 months ago
+:wheelchair:	Optimize all images in public/graphics	3 years ago
+:white_check_mark:	added new emoji assets	2 years ago
+:white_circle:	Optimizes Images using ImageOptim	2 years ago
+:white_flower:	optimized images with ImageOptim	2 years ago
+:white_large_square:	fix rename white_square to white_large_square	3 months ago
+:white_square_button:	Optimizes Images using ImageOptim	2 years ago
+:wind_chime:	Optimize all images in public/graphics	3 years ago
+:wine_glass:	optimized images with ImageOptim	2 years ago
+:wink:	Optimize all images in public/graphics	3 years ago
+:wolf:	Optimize all images in public/graphics	3 years ago
+:woman:	Optimize all images in public/graphics	3 years ago
+:womans_clothes:	optimized images with ImageOptim	2 years ago
+:womans_hat:	Optimize all images in public/graphics	3 years ago
+:womens:	Some images optimized with OptiPNG on maximum compression parameters …	9 months ago
+:worried:	optimized images using image_optim	5 months ago
+:wrench:	optimized images with ImageOptim	2 years ago
+:x:	Optimize all images in public/graphics	3 years ago
+:yellow_heart:	Optimize all images in public/graphics	3 years ago
+:yen:	optimized images with ImageOptim	2 years ago
+:yum:	optimized images with ImageOptim	2 years ago
+:zap:	Optimize all images in public/graphics	3 years ago
+:zero:	Number changes: 0->zero, 1->one, etc	2 years ago
+:zzz:
