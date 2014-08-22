@@ -8,4 +8,3 @@ Maxthon
 Rockmelt
 Sea Monkey
 Deepnet Explorer
-Avant Browser
