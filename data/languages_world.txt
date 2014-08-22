@@ -1,5 +1,5 @@
 #source http://www.linguanaut.com/languages.htm
-#image http://www.bitesizedlanguages.com/app/webroot/attachments/2013/05/language-learning.jpg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689685/ktieor84n9bkhbjhg7k0.jpg
 Abanyom (Bantu)
 Abaza (Northwest Caucasian)
 Abkhaz or Abkhazian (Northwest Caucasian)

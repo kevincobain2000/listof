@@ -1,4 +1,4 @@
-#image http://content.answcdn.com/main/content/img/wiley/visualfood/03_LegumesFruits/40801-Tomate.jpg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408690122/kqh1dm32aiaaqjmdwqmj.jpg
 Amaranthus, leaf (Amaranthus cruentus)
 Arugula/known as rocket/rucola not to be confused with wild rocket/ (Eruca sativa)
 Artichoke, Chinese(Stachys affinis)

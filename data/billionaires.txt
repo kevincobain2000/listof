@@ -1,5 +1,5 @@
 #source http://www.forbes.com/billionaires/list/9/#tab:overall
-#image http://www.workingmomsagainstguilt.com/wp-content/uploads/2012/10/Sara-Blakely-Spanx-Forbes-billionaire.jpeg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689314/e57ssav8gucchzwxliw1.jpg
 Carlos Slim Helu & family
 Bill Gates
 Amancio Ortega

@@ -1,4 +1,4 @@
-#image http://www.modny73.com/wp-content/uploads/2012/02/Zombie_Photography12.jpg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408690199/y6nj2siz4qemxf7cqh3m.jpg
 Dawn of the Dead
 Night of the Living Dead
 Shaun of the Dead

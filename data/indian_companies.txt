@@ -1,4 +1,4 @@
-#image http://www.norbert-dentressangle.co.uk/var/norbert-dentressangle/storage/images/site_unitedk/transport/keypl-4pl/case-studies/tata-steel/251499-2-eng-GB/Tata-Steel.png
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689582/rdf0dz149fbq4jehavmf.png
 Indian Oil Corporation Ltd.
 Reliance Industries Ltd.
 Bharat Petroleum Corporation Ltd.

@@ -1,4 +1,4 @@
-#image https://pbs.twimg.com/profile_images/1980473583/imdblogo.jpg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689731/sedcvwjspaze85fq5bid.jpg
 The Shawshank Redemption (1994)
 The Godfather (1972)
 The Godfather: Part II (1974)

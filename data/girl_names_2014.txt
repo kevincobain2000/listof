@@ -1,4 +1,4 @@
-#image http://postmediaprovince.files.wordpress.com/2014/01/brave-new-girls-jenna-web.jpg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689524/keqvzrw5hnwgyanhvkp5.jpg
 Sophia
 Emma
 Olivia

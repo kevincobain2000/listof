@@ -1,4 +1,4 @@
-#image http://judoinfo.com/images/ukitoshi.gif
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689646/zcjfaxvfaschrzujurpw.gif
 万
 丈
 三

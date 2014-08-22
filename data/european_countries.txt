@@ -1,4 +1,4 @@
-#image http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Europe_orthographic_Caucasus_Urals_boundary.svg/1026px-Europe_orthographic_Caucasus_Urals_boundary.svg.png
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689476/puc09qso2riinlsetzfh.png
 Albania
 Andorra
 Armenia

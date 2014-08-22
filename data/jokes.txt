@@ -1,4 +1,4 @@
-#image http://naijabird.com/wp-content/uploads/2013/08/600px-Joke_Alert.svg_.png
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689624/j4rhhuodsqoah001lhcs.png
 Why do Farts stink? A: So that Deaf people can enjoy them too.
 Why did the Hedgehog cross the road? A: To see his Flat Mate.
 What do you call a Fish without an eye? A: A 'Fsh'!

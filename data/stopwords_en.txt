@@ -1,5 +1,5 @@
 #source http://www.ranks.nl/stopwords
-#image http://us.123rf.com/450wm/radiantskies/radiantskies1211/radiantskies121103703/16578627-abstract-word-cloud-for-stop-words-with-related-tags-and-terms.jpg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408690061/qrh3xkyellj7wsxj3xzg.jpg
 a
 about
 above

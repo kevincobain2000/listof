@@ -1,4 +1,4 @@
-#image http://www.wall321.com/thumbnails/detail/20130115/edge%20weapons%20knives%204272x2848%20wallpaper_www.wall321.com_82.jpg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408690138/uwqiqlf8uheiadzgaaxx.jpg
 A-bomb
 ammo
 ammunition

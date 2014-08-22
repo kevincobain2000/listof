@@ -1,4 +1,4 @@
-#image http://www.mcatoolkit.org/images/locator_maps/US_State-Summaries_Map.png
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408690106/eqk7vybs2wly3dnyvm6b.png
 Alabama
 Alaska
 Arizona

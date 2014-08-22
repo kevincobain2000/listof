@@ -1,4 +1,4 @@
-#image http://lgalaviz.files.wordpress.com/2012/01/hobby.png
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689563/gptacqb2svj0e1frnebs.png
 Recycling
 Organic farming
 Composting

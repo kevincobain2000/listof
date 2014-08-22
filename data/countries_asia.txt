@@ -1,4 +1,4 @@
-#image http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_(orthographic_projection).svg/541px-Asia_(orthographic_projection).svg.png
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689355/hdsonjmqmnvh0kbazuoo.png
 China
 India
 Indonesia

@@ -1,4 +1,4 @@
-#image http://dublab.com/wp-content/uploads/2012/10/non_720px.jpg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689836/bpsjzdjyse4iyhj3m3xg.jpg
 nona
 nonabrasive
 nonabsorbable

@@ -1,4 +1,4 @@
-#image http://blog.headsupfortails.com/wp-content/uploads/2014/02/Female-doggie.jpg
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689430/zv67hion8cqydbee6unx.jpg
 Bella
 Lucy
 Molly
