@@ -1,0 +1,84 @@
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420265475/http_upload_wikimedia_org_wikipedia_commons_3_34_Logo_Mouvement_R_C3_A9formateur_gl70jj.jpg
+Mr.
+Mrs.
+Ms.
+Miss.
+Dr.
+A.V.M
+AB
+Adm.
+Amb
+AMN
+Archbishop
+Baron
+Baroness
+Bishop
+Brig. Gen.
+Bigadier
+Bro.
+Cantor
+Capt.
+Cardinal
+Chaplain
+Cmdr.
+CMSGT
+Col.
+Consul
+Count
+Countess
+Cpl.
+CPO
+CWO
+Dean
+Duchess
+Duke
+Earl
+Ens.
+Eur Eng
+Father
+Fr.
+Gen.
+Gov.
+H. E.
+Herr
+Hon
+HRH
+Lady
+Lord
+Lt.
+Lt. Cmdr.
+Lt. Col.
+Lt. Gen.
+M.
+Maj.
+Maj. Gen
+Master
+Mile.
+Mme.
+Mother
+MSGT
+Pastor
+PFC
+Pres.
+Prince
+Princess
+Prof.
+Rabbi
+Radm
+Rev.
+Rt. Hon.
+Senator
+Sgt.
+Sgt. Maj.
+Sir
+Sister
+SMSGT
+Speaker
+Squad. Ldr.
+Sr.
+SrA
+Sra
+Srta
+SSGT
+Swami
+STSGT

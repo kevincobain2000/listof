@@ -1,0 +1,64 @@
+#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420265705/http_naomi14_iisummer_info_wp-content_uploads_2014_07_pink-flawer_kou4hd.jpg
+anemone
+amaryllis
+amaranth
+aster
+azalea
+babys breath
+begonia
+bellflower
+bergamot
+bird of paradise
+bluebell
+bottlebrush
+buttercup
+camellias
+carnation
+chrysantemum
+columbine
+clover
+crocus
+daisy
+dahlia
+daffodil
+delphinium
+edelweiss
+primrose
+forget me not
+foxglove
+freesia
+gerbera daisies
+gladiolus
+hibiscus
+heather
+hyacinth
+holly
+iris
+jasmine
+ladys slipper
+lavender
+lilac
+lily
+lotus flower
+marigold
+marjoram
+mimosa
+narcissus
+orange blossom
+orchid
+peach blossom
+peony
+petunia
+rhododendron
+rosemary
+roses
+sage
+snapdragon
+sunflower
+tansy
+thistle
+thyme
+tulip
+violets
+water lily
+zinnia
