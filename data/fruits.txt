@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689499/lhtea7cfy1crzy8uke72.jpg
 Apple
 Apricot
 Avocado

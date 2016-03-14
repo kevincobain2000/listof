@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689563/gptacqb2svj0e1frnebs.png
 Recycling
 Organic farming
 Composting

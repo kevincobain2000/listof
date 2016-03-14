@@ -1,5 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420265133/http_www_pizzaplant_com_wp-content_themes_pp-wp_images_sidebar-flat-pizza_l2m3hn.png
-#source https://github.com/dariusk/corpora
 anchovies
 artichoke
 bacon

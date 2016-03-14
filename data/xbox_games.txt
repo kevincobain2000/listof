@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408690160/d08umfda9u2zmwxkljco.png
 RBI Baseball 14
 Valiant Hearts: The Great War
 Guacamelee! Super Turbo Championship Edition

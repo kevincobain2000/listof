@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689524/keqvzrw5hnwgyanhvkp5.jpg
 Sophia
 Emma
 Olivia

@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420265571/http_fc05_deviantart_net_fs50_f_2009_291_7_f_WWE_Wallpaper_by_ahmadus_bpecsu.jpg
 Adam Rose
 Alberto Del Rio
 Alexander Rusev

@@ -1,5 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420265029/http_0801_nccdn_net_1_5_195_068_05d_menu_f2rgll.png
-#source https://github.com/dariusk/corpora
 Coffee
 Olives
 Celery

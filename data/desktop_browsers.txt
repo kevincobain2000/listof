@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689411/hquraqcn6w6bovl9autv.png
 Google Chrome
 Mozilla Firefox
 Internet Explorer

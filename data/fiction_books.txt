@@ -1,5 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408770960/qqqbh1g5wea4qp0ntglt.jpg
-#source http://content.time.com/time/specials/packages/completelist/0,29569,2035319,00.html
 Freedom by Jonathan Franzen
 A Visit from the Goon Squad by Jennifer Egan
 Skippy Dies by Paul Murray

@@ -1,5 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420265376/http_acertaincinema_com_wp-content_uploads_2013_07_Julie-Andrews-1967_mhbhmv.jpg
-#source https://github.com/dariusk/corpora
 Julie Andrews
 Maggie Smith
 Emma Watson

@@ -1,5 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420265822/http_redgreenandblue_org_wp-content_uploads_2008_09_toxic1_qijs2l.jpg
-#source https://github.com/dariusk/corpora/blob/master/data/science/toxic_chemicals.json
 acetone cyanohydrin
 acetone thiosemicarbazide
 acrolein

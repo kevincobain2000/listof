@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689582/rdf0dz149fbq4jehavmf.png
 Indian Oil Corporation Ltd.
 Reliance Industries Ltd.
 Bharat Petroleum Corporation Ltd.

@@ -1,5 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420264738/apple-car-partnerships_wpl9hx.jpg
-#source https://github.com/dariusk/corpora
 Abarth
 Alfa Romeo
 Aston Martin

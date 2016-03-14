@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689607/fgc6izbh39tzzfb442j8.jpg
 Engineer
 Doctor
 Manager

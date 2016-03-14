@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408770786/hpi6gfnmg5xfza9z1vp6.jpg
 The Facebook Movie: The Social Network
 500 Million Users
 Facebook Places Introduced

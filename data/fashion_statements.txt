@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408770838/xdu6dcs367sj4zg5opqc.jpg
 Lady Gaga
 M.I.A.
 Venus Williams

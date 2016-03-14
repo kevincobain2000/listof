@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420265475/http_upload_wikimedia_org_wikipedia_commons_3_34_Logo_Mouvement_R_C3_A9formateur_gl70jj.jpg
 Mr.
 Mrs.
 Ms.

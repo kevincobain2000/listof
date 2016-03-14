@@ -1,5 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420534560/https_lh4_ggpht_com_iIPwjs25mw0fonze4kq8x8V9PvJdJap7sy0ZSl10gCfAwLN1pElejwWgPa_01_86I1Lt_w300_q6y942.png
-#source http://yahoo.github.io/
 pure
 mojito
 gifshot

@@ -1,4 +1,3 @@
-#image https://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689451/jrnl5ck3fh20keenj7uz.jpg
 Max
 Bailey
 Charlie

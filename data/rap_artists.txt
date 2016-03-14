@@ -1,5 +1,3 @@
-#source http://digitaldreamdoor.com/pages/best_rap-artists.html
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689992/fuzsaimmvv6oy6yv0pj4.jpg
 Run-D.M.C.
 Public Enemy
 2Pac

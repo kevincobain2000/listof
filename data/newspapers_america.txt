@@ -1,5 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420264905/http_freedesignfile_com_upload_2013_01_newspaper_04_z1r819.jpg
-#source https://github.com/dariusk/corpora
 The Wall Street Journal
 The New York Times
 USA Today

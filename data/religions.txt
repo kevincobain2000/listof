@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408690010/f2vh2k7muvvq5seo9yko.png
 Abrahamic religions
 Babism
 Bahá'í Faith

@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408770641/ofrc2xufiki0gqunmj3c.jpg
 Vuvuzela
 Top Kill/Junk Shot/Static Kill/Top Hat
 Bedbugs

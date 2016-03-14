@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689334/zyibogipt3u5y45be2ie.jpg
 Afghanistan
 Albania
 Algeria

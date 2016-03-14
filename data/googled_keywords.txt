@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1409026253/po04pdd6wy2lvlnpuw7u.png
 facebook
 youtube
 download

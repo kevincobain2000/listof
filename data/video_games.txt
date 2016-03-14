@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408771574/uspqdg2neteootodk5vn.jpg
 Alan Wake
 Angry Birds
 Red Dead Redemption

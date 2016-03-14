@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420265705/http_naomi14_iisummer_info_wp-content_uploads_2014_07_pink-flawer_kou4hd.jpg
 anemone
 amaryllis
 amaranth

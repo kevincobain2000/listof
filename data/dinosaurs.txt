@@ -1,5 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420264564/dinosaur_1_d4wave.jpg
-#source https://github.com/dariusk/corpora
 Tyrannosaurus
 Apatosaurus
 Dinosaur

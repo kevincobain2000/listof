@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408701664/ah6lcetgqjt7bhxt2c93.jpg
 Alanaktion/chatbot
 smarkets/hal
 muffinista/chatterbot

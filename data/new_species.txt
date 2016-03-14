@@ -1,4 +1,3 @@
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408771287/rkxrlmgcyrwcaucosku6.jpg
 Beaked Toad
 Darwin's Bark Spider
 High-Altitude Tree Ant

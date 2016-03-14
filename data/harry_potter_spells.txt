@@ -1,5 +1,3 @@
-#source http://harrypotter.wikia.com/wiki/List_of_spells
-#image http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1408689546/x90i475krqmjb204t908.jpg
 Accio
 Age Line
 Aguamenti
