@@ -1,9 +1,3 @@
-![listof logo](http://res.cloudinary.com/listof-herokuapp-com/image/upload/v1420384709/http_www_iconsdb_com_icons_preview_red_activity-feed-xxl_r9e09l.png "listof logo")
-
-# Demo
-
-http://listof-app.herokuapp.com/#/tab/chats
-
 # Listof
 
 ### Solution
