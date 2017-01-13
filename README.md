@@ -6,13 +6,6 @@
 irb> Listof.find('us_states')
 ```
 
-### Current Situation
-
-Currently it is packed in a gem ``listof``.
-
-- Interface: http://listof-app.herokuapp.com/#/tab/chats
-- Repo: https://github.com/kevincobain2000/listof
-
 
 ## Installation
 
