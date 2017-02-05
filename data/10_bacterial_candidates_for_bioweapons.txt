@@ -1,0 +1,10 @@
+Rickettsia
+Coxiella Burnetii
+Borrelia Burgdorferi
+Pasteurella Multocida
+Leptospira
+Yersinia Pestis
+Clostridium Botulinum
+Francisella Tularensis
+Brucella
+Bacillus Anthracis

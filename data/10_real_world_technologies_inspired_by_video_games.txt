@@ -1,0 +1,10 @@
+Extra Lives
+Controlling A Character
+Power-Ups
+Vehicle Armor
+Ammo Counter
+Heads-Up Displays
+Gimmicky Ammunition
+Programmable Grenades
+Auto-Aim
+Medpac

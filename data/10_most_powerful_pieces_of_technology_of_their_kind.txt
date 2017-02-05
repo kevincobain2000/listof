@@ -1,0 +1,10 @@
+Gun
+Solar Furnace
+Robots
+X-Ray Generators
+Supercomputers
+Diesel Engine
+Magnet
+Laser
+Loudspeaker
+Camera
