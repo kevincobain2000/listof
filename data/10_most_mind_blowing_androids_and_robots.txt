@@ -1,0 +1,10 @@
+ASIMO
+Atlas
+Morpheus
+Actroid
+FACE
+PARO
+HRP-4C
+NAO
+BINA48
+BEAR
