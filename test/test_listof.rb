@@ -1,13 +1,6 @@
 require 'listof'
 require 'minitest/autorun'
 
-# puts Listof.find("countries")
-# puts Listof.find("countries").to_json
-# puts Listof.find("occupations").to_yaml
-
-# puts Listof.all().to_yaml
-
-
 # Test on all data
 class ListofTest < MiniTest::Unit::TestCase
     def test_all_class
