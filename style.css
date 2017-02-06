@@ -33,3 +33,6 @@ input[type="search"]{
     font-size: 20px;
     font-weight: 600;
 }
+.container{
+    padding: 10px;
+}
